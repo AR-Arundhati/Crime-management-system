@@ -1,1 +1,5 @@
 # Crime-management-system
+This crime management system is built with an aim to develop a system which would facilitate the recording of crimes through an effective and yet way and make it accessible to the public.The system is created using Python, MySQL and file handling. It utilizes the python package Tkinter. Initially datasets of crime records are fed to to the system using SQL. The rest of the system is developed depending on the python-SQL connection and by using tkinter for the visual appeal. The system have the following sections:
+1.	The login/authorization page: here the user is to enter the credentials to access the records. If the credential is correct, they get a message “Access granted” and is directed to the welcome page else they get a message indicating denied access.![image](https://github.com/user-attachments/assets/1b0d2443-b640-433b-8b21-a9923387bc3c) ![image](https://github.com/user-attachments/assets/d3302cdf-fec4-4850-9211-87353e970549) ![image](https://github.com/user-attachments/assets/31e2f624-9c75-4681-817a-9c358e52f95e) 
+
+
