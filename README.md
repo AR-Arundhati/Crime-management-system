@@ -17,7 +17,7 @@ MENU:
         4.	Awareness
   ![image](https://github.com/user-attachments/assets/1537d92c-71eb-40bf-888b-a1936a0d119d)
    
-4.	Display section: Once the option is chosen the result is given accordingly.
+3.	Display section: Once the option is chosen the result is given accordingly.
    
         1. Insert
   	
