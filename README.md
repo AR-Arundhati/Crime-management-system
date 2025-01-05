@@ -3,7 +3,8 @@ This crime management system is built with an aim to develop a system which woul
 1.	The login/authorization page: here the user is to enter the credentials to access the records. If the credential is correct, they get a message “Access granted” and is directed to the welcome page else they get a message indicating denied access.
 
 ![image](https://github.com/user-attachments/assets/1b0d2443-b640-433b-8b21-a9923387bc3c) ![image](https://github.com/user-attachments/assets/d3302cdf-fec4-4850-9211-87353e970549) ![image](https://github.com/user-attachments/assets/31e2f624-9c75-4681-817a-9c358e52f95e)
-3.	Introduction page: Here the user is provided with a short description of the system and is given a menu from which they can select.
+
+2.	Introduction page: Here the user is provided with a short description of the system and is given a menu from which they can select.
 
 MENU:
         1.	Insert records
