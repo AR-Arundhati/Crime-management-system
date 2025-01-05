@@ -7,12 +7,15 @@ This crime management system is built with an aim to develop a system which woul
 2.	Introduction page: Here the user is provided with a short description of the system and is given a menu from which they can select.
 
 MENU:
+
         1.	Insert records
-        2.	Display records
-        3.	Search for records using information
-        4.	Awareness
         
-  	![image](https://github.com/user-attachments/assets/1537d92c-71eb-40bf-888b-a1936a0d119d)
+        2.	Display records
+        
+        3.	Search for records using information
+        
+        4.	Awareness
+  ![image](https://github.com/user-attachments/assets/1537d92c-71eb-40bf-888b-a1936a0d119d)
    
 4.	Display section: Once the option is chosen the result is given accordingly.
    
